@@ -18,6 +18,6 @@
 <h2 align="center">🛠 My Technologies & Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,vscode,git&perline=9" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,html,css,vscode,git&perline=9" />
   </a>
 </p>
