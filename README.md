@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="https://github.com/quang01112006/quang01112006/blob/main/your-name.gif?raw=true" width="100%" alt="My Awesome Banner" />
+</p>
 <!--
 **quang01112006/quang01112006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
