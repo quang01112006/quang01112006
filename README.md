@@ -21,3 +21,9 @@
     <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,html,css,vscode,git,postman,swagger&perline=5" />
   </a>
 </p>
+<br/>
+<h3 align="center">📊 My GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=quang01112006&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quang01112006&layout=compact&theme=tokyonight" width="48%" />
+</p>
